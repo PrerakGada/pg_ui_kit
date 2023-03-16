@@ -9,7 +9,6 @@ class LoginMaster extends StatelessWidget {
     return PageView(
       children: [
         Scaffold(
-          // extendBodyBehindAppBar: true,
           body: SafeArea(
             top: false,
             bottom: false,
