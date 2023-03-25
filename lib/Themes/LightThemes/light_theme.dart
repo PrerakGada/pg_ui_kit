@@ -24,6 +24,8 @@ ThemeData light_theme() => ThemeData(
           statusBarColor: Palette.white,
           statusBarIconBrightness: Brightness.dark, // For Android (dark icons)
           statusBarBrightness: Brightness.dark, // For iOS (dark icons)
+          
+          
         ),
       ),
       brightness: Brightness.light,
